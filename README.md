@@ -43,29 +43,6 @@ This project transforms a basic Bootstrap layout into a professional, animation-
 - **Responsive Design**: Mobile-first approach
 - **Animation**: CSS3 transitions and transforms
 
-## 📁 Project Structure
-
-```
-f1-blog-website/
-│
-├── index.html              # Main HTML file
-├── css/
-│   ├── custom.css         # Custom styling and animations
-│   └── f1-colors.css      # F1 official color variables
-├── js/
-│   ├── main.js            # Custom JavaScript functionality
-│   └── animations.js      # Animation controllers
-├── images/
-│   ├── drivers/           # Driver profile images
-│   ├── teams/             # Team logos and images
-│   ├── races/             # Race and circuit images
-│   └── hero/              # Hero section backgrounds
-├── assets/
-│   └── fonts/             # Custom fonts (if any)
-├── README.md              # Project documentation
-└── LICENSE                # License file
-```
-
 ## 🏗️ Installation & Setup
 
 ### Prerequisites
@@ -107,7 +84,7 @@ f1-blog-website/
 ## 🎨 Customization
 
 ### Colors
-The website uses official F1 colors defined in `css/f1-colors.css`:
+The website uses official F1 colors 
 ```css
 :root {
   --f1-red: #FF1E00;
@@ -121,7 +98,7 @@ The website uses official F1 colors defined in `css/f1-colors.css`:
 ```
 
 ### Animations
-Customize animations in `css/custom.css`:
+Customize animations in `style.css`
 - Hover effects duration
 - Transition timing functions
 - Parallax scroll sensitivity
@@ -145,7 +122,7 @@ Customize animations in `css/custom.css`:
 4. Test responsiveness across all breakpoints
 
 ### Modifying Styles
-1. Edit `css/custom.css` for styling changes
+1. Edit `style.css` for styling changes
 2. Use Bootstrap utility classes when possible
 3. Maintain F1 color scheme consistency
 4. Test animations on different devices
