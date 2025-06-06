@@ -77,28 +77,13 @@ f1-blog-website/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/f1-blog-website.git
-   cd f1-blog-website
+   git clone https://github.com/adiyaan010205/F1-Blog.git
+   cd F1-Blog
    ```
-
-2. **Open in your editor**
-   ```bash
-   code .
-   ```
-
-3. **Launch the website**
-   - Open `index.html` in your web browser
-   - Or use a local server (recommended):
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
    
-   # Using Node.js (if you have live-server installed)
-   npx live-server
-   ```
+2. **Launch the website**
+   - Open `index.html` in your web browser
 
-4. **View the website**
-   - Open your browser and navigate to `http://localhost:8000`
 
 ## 🎯 Usage
 
@@ -165,14 +150,6 @@ Customize animations in `css/custom.css`:
 3. Maintain F1 color scheme consistency
 4. Test animations on different devices
 
-## 🌐 Browser Support
-
-- **Chrome**: 60+
-- **Firefox**: 60+
-- **Safari**: 12+
-- **Edge**: 79+
-- **Mobile**: iOS Safari 12+, Chrome Mobile 60+
-
 ## 📊 Performance
 
 - **CDN Integration**: Bootstrap and Font Awesome via CDN
@@ -180,24 +157,12 @@ Customize animations in `css/custom.css`:
 - **Minimal Custom CSS**: Leverages Bootstrap utilities
 - **Fast Loading**: Average load time < 3 seconds
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Guidelines
 - Follow Bootstrap conventions
 - Maintain F1 branding consistency
 - Test across multiple devices
 - Document any new features
 - Ensure accessibility standards
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -208,18 +173,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Creator**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with basic Bootstrap layout
-- **v2.0.0** - Enhanced with F1 branding, animations, and real content
-- **v2.1.0** - Added mobile optimizations and accessibility improvements
-
----
+- **Project Creator**: [Mohammed Adiyaan R]
+- **Email**: adiyaan126@gmail.com
+- **GitHub**: [@adiyaan010205](https://github.com/adiyaan010205)
+- **LinkedIn**: [Mohammed Adiyaan R](https://www.linkedin.com/in/r-mohammed-adiyaan-b4584b24a/)
 
 <div align="center">
   <strong>🏁 Built with passion for Formula 1 racing 🏁</strong>
